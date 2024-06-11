@@ -111,15 +111,18 @@ Click on "Execute".
 In the Swagger UI, find the GET /campanhas section.
 Click on "Try it out".
 Click on "Execute" to list all campaigns.
-Running Tests
-Unit Tests
+
+## Running Tests
+
+### Unit Tests
+
 To run unit tests, use the following command:
 
 ```bash
 npm run test
 ```
 
-## Integration Tests
+### Integration Tests
 
 To run integration tests, use the following command:
 
