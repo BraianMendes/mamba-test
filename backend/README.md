@@ -85,7 +85,7 @@ The interactive API documentation is available through Swagger. Follow the steps
 Open your browser and go to:
 
 ```bash
-http://localhost:3000/api
+http://localhost:3001/api
 ```
 
 ### Step 2: Create a New Campaign
