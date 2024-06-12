@@ -18,10 +18,7 @@
       }
     ],
     "paths": {
-      "@/*": ["src/*"],
-      "@/context": ["src/context"],
-      "@/types": ["src/types"],
-      "@/utils": ["src/utils"]
+      "@/*": ["./src/*"]
     }
   },
   "include": [
